@@ -130,7 +130,7 @@ This project simulates real mouse and keyboard input on your machine. While it r
 ## 👨‍💻 Author
 
 **Script Written by:** Muhammad Sayban
-**Company:** Saban Productions
+**Company:** Sinecord Productions
 
 ---
 
